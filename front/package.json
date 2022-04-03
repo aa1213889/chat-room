@@ -1,0 +1,13 @@
+{
+    "name": "front",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "vite"
+    },
+    "dependencies": {
+        "dayjs": "^1.11.0",
+        "vite": "^2.9.1"
+    }
+}
